@@ -2,7 +2,7 @@
 
 The purpose of creating this repository was to...
 
-Click [here](wake-up) to begin!
+Click [here](wake-up.md) to begin!
 
 Click here to see the diagram of this CYOA
 
