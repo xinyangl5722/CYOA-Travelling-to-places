@@ -4,4 +4,4 @@ You wake up into a random place with plains. In front of you, there are two plac
 
 [Go into the abandoned town](Abandoned-town/abandoned-mall.md)
 
-[Go into the cursed kingdom](Cursed-kingdom/cursed-kingdom.md)
+[Go into the cursed kingdom](Cursed-kingdom/princess.md)
