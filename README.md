@@ -1,6 +1,6 @@
 # CYOA-Travelling-to-places
 
-The purpose of creating this repository was to...
+The purpose of creating this repository was to practice collaboration and linking files.
 
 Click [here](wake-up.md) to begin!
 
